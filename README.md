@@ -9,7 +9,7 @@
 - **Motor Control**: PWM using TIM1 Channels 1 & 2
 - **Power**: 2x18650 or 7.4V battery pack
 
-![System Diagram](images/system-diagram.png)
+![System Diagram](images/Diagram.png)
 
 ---
 
